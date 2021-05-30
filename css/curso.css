@@ -1,0 +1,127 @@
+
+
+header{
+
+   background-image:url(../img/ilustracion3.svg);
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100vh;
+}
+
+body {
+    font: fantasy;
+
+}
+
+main{
+
+    background-repeat: no-repeat;
+
+}
+
+
+.titulo{
+    font: fantasy;
+    font-style: italic;
+
+}
+
+.vinculo{
+    font-style: normal;
+    font-size: 10px;
+
+}
+
+.parrafo{
+    color: black;
+    font-style: oblique;
+    font-size: 23px;
+}
+
+.descripcion {
+    background-image: url(../img/cloud.webp);
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.descripcion input {
+    border-radius: 0;
+    height: 25px;
+    border: 1px solid white;
+}
+
+.descripcion .itens {
+    padding: 10px;
+    display: block;
+}
+.descripcion .vinculo {
+    color: black;
+    padding: 5px 25px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: rgb(83, 214, 247);
+    border-radius: 10px;
+}
+
+.descripcion .vinculo:hover {
+    background-color: rgb(83 214 247 / 62%);
+}
+
+.titulo1{
+    font: fantasy;
+    font-style: italic;
+    font-size: 24px;
+    font-style: inherit;
+    color: blue;
+}
+
+.titulop{
+    font: fantasy;
+    font-style: italic;
+
+}
+
+.vinculom{
+    font-style: oblique;
+    font-size: 24px;
+    color:white;
+}
+
+
+
+.fondoacceso{
+    background-image:url(../img/17040.jpg);
+    background-size: 100% 100%;
+}
+.titulomas{
+    color:black;
+    font-style:italic ;
+    font: small-caption;
+
+
+}
+
+.tituloss{
+    color: white;
+    font-style:italic ;
+    background-image:url(../img/fondo-tecnologico.jpg);
+}
+
+.total{
+
+
+}
+
+table {
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #000 url("gradient.gif") bottom left repeat-x;
+   color: #fff;
+}
+td, th {
+   background: #fff;
+   color: #000;
+}
